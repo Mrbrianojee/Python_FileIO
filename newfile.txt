@@ -1,0 +1,6 @@
+Hello
+world
+welcome
+to
+file
+io
