@@ -6,3 +6,4 @@ def show_menu():
     option = input("Enter Option")
     return option
     
+print(show_menu())
